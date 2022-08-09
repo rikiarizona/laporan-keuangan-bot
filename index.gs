@@ -1,10 +1,9 @@
 //CONFIG
-var BOT_TOKEN = "1234567890:abcdefghijklmnopqrstuvwxyz" //BOT TOKEN ANDA
-var SS_URL = "https://docs.google.com/spreadsheets/d/abcdefghijklmnopq/edit#gid=0" //URL SPREADSHEET
-var SHEET_NAME = "laporan" //NAMA SHEET
+var BOT_TOKEN = "5567019114:AAFhBIqt5f_k4THSg28RXlNCcrQ6X87p_4s" //BOT TOKEN ANDA
+var SS_URL = "https://docs.google.com/spreadsheets/d/1_4T69zig4iaPRdf2Y6czA_Ch1iC7qfjgRVD8D0kOqXQ/edit#gid=0" //URL SPREADSHEET
+var SHEET_NAME = "HOME ACCOUNT" //NAMA SHEET
 var USERS = [
-	173739838,
-	183837728
+	357286323
 ] //CHAT ID, bisa lebih dari 1
 
 
